@@ -1,5 +1,6 @@
 <?php
-
+echo "111111111111111111";
+die();
 require_once __DIR__ . '/vendor/autoload.php';
 
 use Bigcommerce\Api\Client as Bigcommerce;
